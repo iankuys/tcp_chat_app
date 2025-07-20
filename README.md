@@ -20,7 +20,7 @@ A simple terminal-based TCP chat application built with Python’s `socket` libr
 
 ### 1. Run the Server
 ```bash
-python server.py
+python my_tcp_chat.py
 ```
 
 ### 2. Join as client
